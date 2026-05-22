@@ -1,47 +1,135 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Yaki's Original Teriyaki Bowl",
+  "tagline": "Glendale teriyaki on Foothill Boulevard.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "GLENDALE · FOOTHILL BLVD · TERIYAKI BOWL",
+    "heading": "The Foothill teriyaki bowl.",
+    "subheading": "A charcoal-grilled teriyaki bowl shop on Foothill Boulevard, north Glendale. House-marinated chicken and beef, hand-cooked rice, fresh slaw, and the kind of teriyaki sauce that makes the bowl worth driving to.",
+    "ctaText": "Call ahead",
+    "ctaLink": "tel:8189577781",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "The shop",
+    "heading": "Charcoal · marinade · time.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Yaki's Original Teriyaki Bowl has been on Foothill Boulevard in north Glendale for years. Charcoal grill, hand-marinated proteins, freshly steamed rice, and a sauce recipe the family hasn't changed since the doors opened.",
+      "We do classic teriyaki bowls — chicken, beef, salmon, mixed — plus combo plates, sides, and a kids' menu. Every bowl is built to order. No microwave, no shortcut.",
+      "Open seven days. Dine in, takeout, or order ahead by phone. The 267 reviews come from regulars who eat here every week."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Chicken Teriyaki Bowl",
+      "description": "House-marinated chicken, charcoal-grilled, over steamed rice with fresh slaw and signature sauce.",
+      "price": "$12"
+    },
+    {
+      "title": "Beef Teriyaki Bowl",
+      "description": "Marinated thin-sliced beef, charcoal-seared, rice, slaw, sauce on the side. Heartier portion.",
+      "price": "$14"
+    },
+    {
+      "title": "Salmon Teriyaki Bowl",
+      "description": "Atlantic salmon, marinated and grilled, rice, slaw, fresh lemon. Lighter but filling.",
+      "price": "$15"
+    },
+    {
+      "title": "Combo Plate",
+      "description": "Two proteins of your choice, two sides, rice, sauce. The lunch order regulars know.",
+      "price": "$16"
+    },
+    {
+      "title": "Kids' Bowl",
+      "description": "Smaller portion chicken or beef teriyaki, rice, sweet sauce, side veggies. Ten and under.",
+      "price": "$8"
+    },
+    {
+      "title": "Family Pack",
+      "description": "Four bowls of your choice, family rice, family slaw, sauce on the side. Feeds four.",
+      "price": "$45"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Greg M.",
+      "rating": 4,
+      "context": "Weekly regular",
+      "text": "Yaki's is the only teriyaki I trust in north Glendale. Same bowl, same sauce, same hands for the last six years. The chicken thigh is the best in the area, full stop."
+    },
+    {
+      "name": "Lisa T.",
+      "rating": 5,
+      "context": "Family-of-four customer",
+      "text": "Bring my four kids here every Friday after soccer. Four bowls, four happy kids, forty bucks, ten minutes. The family pack is real money."
+    },
+    {
+      "name": "Vahe S.",
+      "rating": 4,
+      "context": "First-time customer",
+      "text": "Walked in cold on a Tuesday and was eating the best teriyaki sauce I've had in LA twelve minutes later. The line moves fast and the bowl is honest."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 957-7781",
+    "email": "hello@yakisteriyaki.com",
+    "address": "3750 Foothill Blvd, Glendale, CA 91214",
+    "mapEmbedQuery": "Yaki's Original Teriyaki, 3750 Foothill Blvd, Glendale, CA 91214",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "11:00 AM – 9:00 PM",
+      "Tuesday": "11:00 AM – 9:00 PM",
+      "Wednesday": "11:00 AM – 9:00 PM",
+      "Thursday": "11:00 AM – 9:00 PM",
+      "Friday": "11:00 AM – 9:00 PM",
+      "Saturday": "11:00 AM – 9:00 PM",
+      "Sunday": "11:00 AM – 8:00 PM"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Yaki's Original Teriyaki Bowl — Glendale teriyaki on Foothill Blvd",
+    "description": "A charcoal-grilled teriyaki bowl shop on Foothill Boulevard, Glendale. Chicken, beef, salmon, combo plates. Family-friendly, dine-in or takeout.",
+    "keywords": [
+      "Glendale teriyaki",
+      "Foothill Blvd teriyaki",
+      "Yaki's teriyaki",
+      "Glendale Japanese food",
+      "charcoal teriyaki bowl"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#18181B",
+    "accentColor": "#DC2626",
+    "fontFamily": "notoserifjp-notosansjp-shipporimincho"
+  },
+  "designSystem": {
+    "searchQuery": "japanese teriyaki bowl casual minimal modern noren red white ink",
+    "styleName": "Japanese Minimal Noren (ink + hinomaru)",
+    "pattern": "Hero + Menu list + CTA",
+    "palette": {
+      "primary": "#18181B",
+      "secondary": "#27272A",
+      "cta": "#DC2626",
+      "accent": "#DC2626",
+      "background": "#FAFAF9",
+      "text": "#18181B",
+      "muted": "#71717A",
+      "border": "#18181B",
+      "surface": "#F5F5F4"
+    },
+    "typography": {
+      "heading": "Noto Serif JP",
+      "body": "Noto Sans JP",
+      "label": "Shippori Mincho",
+      "mood": "Japanese minimal noren, ink + paper white + hinomaru red, multilingual headings, restaurant authenticity"
+    },
+    "moves": [
+      "Noto Serif JP + Noto Sans JP — first Japanese Noto fonts in the build, multilingual ready",
+      "Hinomaru red dot motif as logo accent + bullet ornament — Japanese flag symbolism",
+      "Ink + paper white + hinomaru red palette — pure Japanese minimal",
+      "メニュー / MENU bilingual labels in menu section — restaurant authenticity",
+      "Hinomaru-red visit section with ink-bordered map — distinct from any prior visit",
+      "Black ink reviews section with red-bordered cards — first ink-with-red-border reviews"
+    ]
   }
 }
